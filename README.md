@@ -1,6 +1,7 @@
 # NEMA 17 Python Tests with Raspberry Pi
 Python codes for controlling a NEMA 17 stepper motor with a DRV8825 driver and Raspberry Pi computer
 
+Full tutorial at: https://makersportal.com/blog
 #
 
 ### - NEMA 17, DRV8825, and Raspberry Pi Wiring - 

@@ -16,6 +16,6 @@ The RpiMotorLib is used to control the motor, which can be installed via the fol
 pi@raspberrypi:~ $ sudo pip3 install rpimotorlib
 ```
 
-Example output from :
+Example output from nema17_test.py:
 
 ![NEMA-17 Test](https://static1.squarespace.com/static/59b037304c0dbfb092fbe894/t/600ef8b8a0e8fa2c29a3d8a1/1611593925474/nema17_rpi_demo.gif?format=1000w)

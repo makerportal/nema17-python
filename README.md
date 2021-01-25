@@ -11,6 +11,6 @@ The NEMA 17 can be wired to the Raspberry Pi via the DRV8825 driver and GPIO pin
 
 The RpiMotorLib is used to control the motor, which can be installed via the following command:
 
-```bash
+```
 pi@raspberrypi:~ $ sudo pip3 install rpimotorlib
 ```

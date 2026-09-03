@@ -1,6 +1,8 @@
 # NEMA 17 Python Tests with Raspberry Pi
 Python codes for controlling a NEMA 17 stepper motor with a DRV8825 driver and Raspberry Pi computer
 
+**Interactive companion:** [Motor Control Lab](https://makerportal.ai/lab/gan-foc-drive) — explore field-oriented motor-control behavior and control-loop tradeoffs.
+
 Full tutorial at: https://makersportal.com/blog/raspberry-pi-stepper-motor-control-with-nema-17
 <br><br>
 Buy a Stepper Motor Kit here: https://makersportal.com/shop/nema-17-stepper-motor-kit-17hs4023-drv8825-bridge
